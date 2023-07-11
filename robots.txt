@@ -1,3 +1,8 @@
-User-Agent:*
-allow:*
-Sitemap: https://elnemr-a.github.io/mobile-redmi-12/sitemap.xml
+User-agent: *
+
+Disallow: /brands
+Disallow: /brand/*
+Disallow: /cat/mobiles
+Disallow: /aps-brands/*
+Disallow: /*?sort=
+Disallow: /*fb_comment_id
